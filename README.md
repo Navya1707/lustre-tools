@@ -1,4 +1,4 @@
-# lfs-utils
+# lustre-tools
 
 A utility library and CLI tool for the [Lustre](https://www.lustre.org/) filesystem
 
